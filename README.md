@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [restaurant](https://mohamedsamy2026.github.io/rest/)
 - 
-- 🤝 I’m looking for help with [restaurant](https://mohamedsamy2026.github.io/ramadan/)
+- 🤝 I’m looking for help with [Ramadan](https://mohamedsamy2026.github.io/ramadan/)
 
 - 📫 How to reach me **mohamedeng747@gmail.com**
 
