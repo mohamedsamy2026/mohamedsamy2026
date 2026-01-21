@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsamy2026&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsamy2026" /> </p>
 
 - 🤝 I’m looking for help with [Ramadan](https://mohamedsamy2026.github.io/ramadan/)
-- 
 - 🔭 I’m currently working on [Hospital](https://mohamedsamy2026.github.io/Hospital/)
 
 - 🌱 I’m currently learning **learn HTML and CSS and JavaScript**
