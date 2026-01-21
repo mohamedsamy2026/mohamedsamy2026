@@ -2,16 +2,14 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsamy2026&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsamy2026" /> </p>
-
+- 🤝 I’m looking for help with [Ramadan](https://mohamedsamy2026.github.io/ramadan/)
 - 🔭 I’m currently working on [Hospital](https://mohamedsamy2026.github.io/Hospital/)
 
 - 🌱 I’m currently learning **learn HTML and CSS and JavaScript**
 
 - 👯 I’m looking to collaborate on [coffee](https://mohamedsamy2026.github.io/coffee/)
-
 - 🤝 I’m looking for help with [restaurant](https://mohamedsamy2026.github.io/rest/)
-- 
-- 🤝 I’m looking for help with [Ramadan](https://mohamedsamy2026.github.io/ramadan/)
+- 🤝 I’m looking for help with [fruit](https://mohamedsamy2026.github.io/fruit/)
 
 - 📫 How to reach me **mohamedeng747@gmail.com**
 
