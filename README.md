@@ -3,14 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsamy2026&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsamy2026" /> </p>
 
-- 🔭 I’m currently working on [Hospital](https://mohamedsamy2026.github.io/Hospital/)
+- 🔭 I’m currently working on [Hospital System](https://mohamedsamy2026.github.io/Hospital/)
+- 🛒 I’m currently building [Online Store](https://online-store-7wt.pages.dev/)
+- 📊 I’m exploring [Management System](https://mohamedsamy2026.github.io/management-system/)
+- 🌙 Check out my [Ramadan Project](https://mohamedsamy2026.github.io/ramadan/)
+- 🖼️ Check out [Generate Images App](https://mohamedsamy2026.github.io/Generate-images/)
+- 💼 Check out my client's portfolio: [Hisham Portfolio](https://mohamedsamy2026.github.io/hisham-/)
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, and React**
-- 🤝 I’m looking for help with [Ramadan](https://mohamedsamy2026.github.io/ramadan/)
-- 👯 I’m looking to collaborate on [coffee](https://mohamedsamy2026.github.io/coffee/)
-- 🛒 I’m looking for help with [Online Store](https://online-store-7wt.pages.dev/)
-- 🍽️ I’m looking for help with [restaurant](https://mohamedsamy2026.github.io/rest/)
-- 🍎 I’m looking for help with [fruit](https://mohamedsamy2026.github.io/fruit/)
-
 - 📫 How to reach me **mohamedeng747@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
