@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/mohamed53629628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed53629628" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-samy-057620340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-samy-057620340" height="30" width="40" /></a>
-<a href="https://fb.com/mohamedsamym" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohamedsamy2026/mohamedsamy2026/main/fb.svg" alt="mohamedsamym" height="30" width="40" /></a>
+<a href="https://fb.com/mohamedsamyym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedsamyym" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed__web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed__web" height="30" width="40" /></a>
 </p>
 
