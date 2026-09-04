@@ -4,19 +4,20 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsamy2026&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsamy2026" /> </p>
 
 - 🔭 I’m currently working on [Hospital](https://mohamedsamy2026.github.io/Hospital/)
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and React
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, and React**
 - 🤝 I’m looking for help with [Ramadan](https://mohamedsamy2026.github.io/ramadan/)
 - 👯 I’m looking to collaborate on [coffee](https://mohamedsamy2026.github.io/coffee/)
 - 🛒 I’m looking for help with [Online Store](https://online-store-7wt.pages.dev/)
 - 🍽️ I’m looking for help with [restaurant](https://mohamedsamy2026.github.io/rest/)
 - 🍎 I’m looking for help with [fruit](https://mohamedsamy2026.github.io/fruit/)
+
 - 📫 How to reach me **mohamedeng747@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohamed53629628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed53629628" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-samy-057620340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-samy-057620340" height="30" width="40" /></a>
-<a href="https://fb.com/mohamedsamym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedsamym" height="30" width="40" /></a>
+<a href="https://fb.com/mohamedsamym" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohamedsamy2026/mohamedsamy2026/main/fb.svg" alt="mohamedsamym" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed__web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed__web" height="30" width="40" /></a>
 </p>
 
@@ -28,9 +29,12 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
 ---
