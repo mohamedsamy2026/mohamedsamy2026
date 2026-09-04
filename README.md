@@ -36,7 +36,23 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+
+---
+<h3 align="center">📊 GitHub Stats & Contributions</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsamy2026&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamy2026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+
+
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedsamy2026&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+
