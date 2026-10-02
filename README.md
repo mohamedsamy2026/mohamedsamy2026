@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Samy;Frontend+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;I+build+fast+%26+responsive+websites;Available+for+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi,+I'm+Mohamed+Samy;Frontend+Developer+from+Egypt;I+build+fast+and+responsive+websites;Available+for+freelance+projects" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,45 +17,45 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate **Frontend Developer** from Egypt 🇪🇬. I turn ideas into clean, responsive, and user-friendly web interfaces, and I'm now taking on freelance projects.
+I'm a Frontend Developer from Egypt, building clean and responsive web interfaces. I'm currently taking on freelance projects.
 
-- 🔭 Building real-world projects: hospital, e-commerce, and management systems
-- 🌱 Currently leveling up in **JavaScript & React**
-- 💼 Worked with real clients (see the portfolio below)
-- 📫 Reach me: **mohamedeng747@gmail.com**
+- Building real-world projects: hospital, e-commerce, and management systems
+- Currently leveling up in **JavaScript and React**
+- Worked with real clients (see the portfolio below)
+- Contact: **mohamedeng747@gmail.com**
 
 ---
 
-## 💼 What I Can Build For You
+## Services
 
 | Service | Details |
 |---|---|
-| 🌐 **Business Websites** | Clean, fast, mobile-friendly sites |
-| 🧑‍💼 **Portfolio Websites** | Personal sites that showcase your work |
-| 🛒 **E-commerce Frontends** | Product pages, cart, and checkout UI |
-| 📊 **Dashboards & Systems** | Admin panels and management interfaces |
-| ⚛️ **React Apps** | Component-based, scalable web apps |
+| **Business Websites** | Clean, fast, mobile-friendly sites |
+| **Portfolio Websites** | Personal sites that showcase your work |
+| **E-commerce Frontends** | Product pages, cart, and checkout UI |
+| **Dashboards and Systems** | Admin panels and management interfaces |
+| **React Apps** | Component-based, scalable web apps |
 
-> 📩 Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and let's talk.
+Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and let's talk.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Links |
+| Project | Description | Link |
 |---|---|---|
-| 🏥 **Hospital System** | Hospital management web interface | [Live Demo](https://mohamedsamy2026.github.io/Hospital/) |
-| 🛒 **Online Store** | E-commerce storefront | [Live Demo](https://online-store-7wt.pages.dev/) |
-| 📊 **Management System** | Data & operations management dashboard | [Live Demo](https://mohamedsamy2026.github.io/management-system/) |
-| 🖼️ **Generate Images App** | Image generation web app | [Live Demo](https://mohamedsamy2026.github.io/Generate-images/) |
-| 🌙 **Ramadan Project** | Ramadan-themed web project | [Live Demo](https://mohamedsamy2026.github.io/ramadan/) |
-| 👤 **Hisham Portfolio** | Client portfolio website | [Live Demo](https://mohamedsamy2026.github.io/hisham-/) |
+| **Hospital System** | Hospital management web interface | [Live Demo](https://mohamedsamy2026.github.io/Hospital/) |
+| **Online Store** | E-commerce storefront | [Live Demo](https://online-store-7wt.pages.dev/) |
+| **Management System** | Data and operations management dashboard | [Live Demo](https://mohamedsamy2026.github.io/management-system/) |
+| **Generate Images App** | Image generation web app | [Live Demo](https://mohamedsamy2026.github.io/Generate-images/) |
+| **Ramadan Project** | Ramadan-themed web project | [Live Demo](https://mohamedsamy2026.github.io/ramadan/) |
+| **Hisham Portfolio** | Client portfolio website | [Live Demo](https://mohamedsamy2026.github.io/hisham-/) |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,jquery,py,firebase,supabase,git,github,vscode&perline=7" alt="skills" />
@@ -63,7 +63,7 @@ I'm a passionate **Frontend Developer** from Egypt 🇪🇬. I turn ideas into c
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedsamy2026&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -74,19 +74,9 @@ I'm a passionate **Frontend Developer** from Egypt 🇪🇬. I turn ideas into c
   <img src="https://streak-stats.demolab.com/?user=mohamedsamy2026&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedsamy2026&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsamy2026&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:mohamedeng747@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
