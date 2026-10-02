@@ -58,7 +58,7 @@ Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and l
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,jquery,py,firebase,supabase,git,github,vscode&perline=7" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,jquery,py,firebase,supabase,git&perline=6" alt="skills" />
 </p>
 
 ---
