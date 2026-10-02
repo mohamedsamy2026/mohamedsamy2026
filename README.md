@@ -46,6 +46,8 @@ Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and l
 
 | Project | Description | Link |
 |---|---|---|
+| **Portfolio Website** (Featured) | My personal portfolio: projects, skills, and contact | [Visit Site](https://my-profile-dev.vercel.app/) |
+| **Hospital System** | Hospital management web interface | [Live Demo](https://mohamedsamy2026.github.io/Hospital/) |
 | **Hospital System** | Hospital management web interface | [Live Demo](https://mohamedsamy2026.github.io/Hospital/) |
 | **Online Store** | E-commerce storefront | [Live Demo](https://online-store-7wt.pages.dev/) |
 | **Management System** | Data and operations management dashboard | [Live Demo](https://mohamedsamy2026.github.io/management-system/) |
