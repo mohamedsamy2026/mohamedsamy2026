@@ -1,46 +1,101 @@
-<h1 align="center">Hi 👋 Mohamed Samy</h1>
-<h3 align="center">A passionate frontend developer from Egypt 🇪🇬</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohamedsamy2026&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsamy2026" />
-</p>
-
-- 🔭 I’m currently working on [Hospital System](https://mohamedsamy2026.github.io/Hospital/)
-- 🛒 I’m currently building [Online Store](https://online-store-7wt.pages.dev/)
-- 📊 I’m exploring [Management System](https://mohamedsamy2026.github.io/management-system/)
-- 🌙 Check out my [Ramadan Project](https://mohamedsamy2026.github.io/ramadan/)
-- 🖼️ Check out [Generate Images App](https://mohamedsamy2026.github.io/Generate-images/)
-- 💼 Check out my client's portfolio: [Hisham Portfolio](https://mohamedsamy2026.github.io/hisham-/)
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and React**
-- 📫 How to reach me **mohamedeng747@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/mohamed53629628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamed53629628" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mohamed-samy-057620340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-samy-057620340" height="30" width="40" /></a>
-  <a href="https://fb.com/mohamedsamyym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamedsamyym" height="30" width="40" /></a>
-  <a href="https://instagram.com/mohamed__web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed__web" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
-
----
-<h3 align="center">📊 GitHub Stats & Contributions</h3>
----
+<!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsamy2026&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=200&section=header&text=Mohamed%20Samy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Freelancer&descSize=20&descAlignY=58" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Mohamed+Samy;Frontend+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;I+build+fast+%26+responsive+websites;Available+for+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedsamy2026&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance-2ea44f?style=for-the-badge" alt="open to freelance" />
+  <img src="https://img.shields.io/badge/Location-Egypt-red?style=for-the-badge" alt="Egypt" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Frontend Developer** from Egypt 🇪🇬. I turn ideas into clean, responsive, and user-friendly web interfaces, and I'm now taking on freelance projects.
+
+- 🔭 Building real-world projects: hospital, e-commerce, and management systems
+- 🌱 Currently leveling up in **JavaScript & React**
+- 💼 Worked with real clients (see the portfolio below)
+- 📫 Reach me: **mohamedeng747@gmail.com**
+
+---
+
+## 💼 What I Can Build For You
+
+| Service | Details |
+|---|---|
+| 🌐 **Business Websites** | Clean, fast, mobile-friendly sites |
+| 🧑‍💼 **Portfolio Websites** | Personal sites that showcase your work |
+| 🛒 **E-commerce Frontends** | Product pages, cart, and checkout UI |
+| 📊 **Dashboards & Systems** | Admin panels and management interfaces |
+| ⚛️ **React Apps** | Component-based, scalable web apps |
+
+> 📩 Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and let's talk.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Links |
+|---|---|---|
+| 🏥 **Hospital System** | Hospital management web interface | [Live Demo](https://mohamedsamy2026.github.io/Hospital/) |
+| 🛒 **Online Store** | E-commerce storefront | [Live Demo](https://online-store-7wt.pages.dev/) |
+| 📊 **Management System** | Data & operations management dashboard | [Live Demo](https://mohamedsamy2026.github.io/management-system/) |
+| 🖼️ **Generate Images App** | Image generation web app | [Live Demo](https://mohamedsamy2026.github.io/Generate-images/) |
+| 🌙 **Ramadan Project** | Ramadan-themed web project | [Live Demo](https://mohamedsamy2026.github.io/ramadan/) |
+| 👤 **Hisham Portfolio** | Client portfolio website | [Live Demo](https://mohamedsamy2026.github.io/hisham-/) |
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,sass,jquery,py,firebase,supabase,git,github,vscode&perline=7" alt="skills" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedsamy2026&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedsamy2026&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohamedsamy2026&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedsamy2026&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedsamy2026&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:mohamedeng747@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/mohamed-samy-057620340"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mohamed53629628"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://fb.com/mohamedsamyym"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/mohamed__web"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=120&section=footer" alt="footer" />
 </p>
