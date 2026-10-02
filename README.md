@@ -80,8 +80,8 @@ Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and l
 
 <p align="center">
   <a href="https://t.me/mohamed1_2_3_4"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://wa.me/201115083459?text=Hi%20Mohamed%2C%20I%20want%20to%20discuss%20a%20project"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mohamedeng747@gmail.com&amp;su=Project%20Inquiry"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://wa.me/201115083459"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mohamedeng747@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mohamed-samy-057620340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
