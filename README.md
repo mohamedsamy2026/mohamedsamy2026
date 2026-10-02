@@ -48,11 +48,11 @@ Have a project in mind? [Message me on Telegram](https://t.me/mohamed1_2_3_4) an
 
 ## Featured Projects
 
-| Project | Description | Built With | Links |
-|---|---|---|---|
-| **Portfolio Website** | My personal portfolio: projects, skills, and contact | React, Tailwind CSS | [Live](https://my-profile-dev.vercel.app/) / [Code](https://github.com/mohamedsamy2026/my-profile) |
-| **Education Platform** | Full-featured education platform with a complete backend, my largest project | React, Tailwind CSS, Firebase, Supabase | [Live](https://educationplatform-39f.pages.dev/) / [Code](https://github.com/mohamedsamy2026/EducationPlatForm) |
-| **Online Store** | Complete e-commerce store | HTML, CSS, JavaScript, Tailwind CSS | [Live](https://online-store-7wt.pages.dev/) / [Code](https://github.com/mohamedsamy2026/online-store) |
+| Project | Description | Built With | Live Site | Source Code |
+|---|---|---|---|---|
+| **Portfolio Website** | My personal portfolio: projects, skills, and contact | React, Tailwind CSS | [View Live](https://my-profile-dev.vercel.app/) | [GitHub](https://github.com/mohamedsamy2026/my-profile) |
+| **Education Platform** | Full-featured education platform, my largest project | React, Tailwind CSS, Firebase, Supabase | [View Live](https://educationplatform-39f.pages.dev/) | [GitHub](https://github.com/mohamedsamy2026/EducationPlatForm) |
+| **Online Store** | Complete e-commerce store | HTML, CSS, JavaScript, Tailwind CSS | [View Live](https://online-store-7wt.pages.dev/) | [GitHub](https://github.com/mohamedsamy2026/online-store) |
 
 ### More Projects
 
