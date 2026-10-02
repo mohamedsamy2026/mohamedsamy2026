@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Location-Egypt-red?style=for-the-badge" alt="Egypt" />
 </p>
 
+<p align="center">
+  <a href="https://my-profile-dev.vercel.app/"><img src="https://img.shields.io/badge/View%20My%20Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
+
 ---
 
 ## About Me
@@ -38,7 +42,7 @@ I'm a Frontend Developer from Egypt, building clean and responsive web interface
 | **Dashboards and Systems** | Admin panels and management interfaces |
 | **React Apps** | Component-based, scalable web apps |
 
-Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and let's talk.
+Have a project in mind? [Message me on Telegram](https://t.me/mohamed1_2_3_4) and let's talk.
 
 ---
 
@@ -47,7 +51,6 @@ Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and l
 | Project | Description | Link |
 |---|---|---|
 | **Portfolio Website** (Featured) | My personal portfolio: projects, skills, and contact | [Visit Site](https://my-profile-dev.vercel.app/) |
-| **Hospital System** | Hospital management web interface | [Live Demo](https://mohamedsamy2026.github.io/Hospital/) |
 | **Hospital System** | Hospital management web interface | [Live Demo](https://mohamedsamy2026.github.io/Hospital/) |
 | **Online Store** | E-commerce storefront | [Live Demo](https://online-store-7wt.pages.dev/) |
 | **Management System** | Data and operations management dashboard | [Live Demo](https://mohamedsamy2026.github.io/management-system/) |
@@ -82,7 +85,7 @@ Have a project in mind? [Send me an email](mailto:mohamedeng747@gmail.com) and l
 
 <p align="center">
   <a href="https://t.me/mohamed1_2_3_4"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://wa.me/201115083459"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://wa.me/201115083459"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=mohamedeng747@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mohamed-samy-057620340/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
