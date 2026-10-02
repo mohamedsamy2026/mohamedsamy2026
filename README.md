@@ -26,7 +26,7 @@
 I'm a Frontend Developer from Egypt, building clean and responsive web interfaces. I'm currently taking on freelance projects.
 
 - Building real-world projects: hospital, e-commerce, and management systems
-- Currently leveling up in **JavaScript and React**
+- Building with **JavaScript, React, Firebase, and Supabase**
 - Worked with real clients (see the portfolio below)
 - Contact: **mohamedeng747@gmail.com**
 
@@ -48,11 +48,17 @@ Have a project in mind? [Message me on Telegram](https://t.me/mohamed1_2_3_4) an
 
 ## Featured Projects
 
+| Project | Description | Built With | Links |
+|---|---|---|---|
+| **Portfolio Website** | My personal portfolio: projects, skills, and contact | React, Tailwind CSS | [Live](https://my-profile-dev.vercel.app/) / [Code](https://github.com/mohamedsamy2026/my-profile) |
+| **Education Platform** | Full-featured education platform with a complete backend, my largest project | React, Tailwind CSS, Firebase, Supabase | [Live](https://educationplatform-39f.pages.dev/) / [Code](https://github.com/mohamedsamy2026/EducationPlatForm) |
+| **Online Store** | Complete e-commerce store | HTML, CSS, JavaScript, Tailwind CSS | [Live](https://online-store-7wt.pages.dev/) / [Code](https://github.com/mohamedsamy2026/online-store) |
+
+### More Projects
+
 | Project | Description | Link |
 |---|---|---|
-| **Portfolio Website** (Featured) | My personal portfolio: projects, skills, and contact | [Visit Site](https://my-profile-dev.vercel.app/) |
 | **Hospital System** | Hospital management web interface | [Live Demo](https://mohamedsamy2026.github.io/Hospital/) |
-| **Online Store** | E-commerce storefront | [Live Demo](https://online-store-7wt.pages.dev/) |
 | **Management System** | Data and operations management dashboard | [Live Demo](https://mohamedsamy2026.github.io/management-system/) |
 | **Generate Images App** | Image generation web app | [Live Demo](https://mohamedsamy2026.github.io/Generate-images/) |
 | **Ramadan Project** | Ramadan-themed web project | [Live Demo](https://mohamedsamy2026.github.io/ramadan/) |
