@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedsamy2026&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://hits.sh/github.com/mohamedsamy2026/">
+    <img src="https://hits.sh/github.com/mohamedsamy2026.svg?style=for-the-badge&label=Profile%20views&color=0e75b6" alt="Profile views" />
+  </a>
   <img src="https://img.shields.io/badge/Open%20to-Freelance-2ea44f?style=for-the-badge" alt="open to freelance" />
   <img src="https://img.shields.io/badge/Location-Egypt-red?style=for-the-badge" alt="Egypt" />
 </p>
