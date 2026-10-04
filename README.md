@@ -99,7 +99,7 @@ Have a project in mind? [Message me on Telegram](https://t.me/mohamed1_2_3_4) an
 </p>
 
 <p align="center">
-  <a href="https://x.com/mohamed53629628"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/mohamedsamy_web"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.facebook.com/MohamedSamym/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/mohamed_samy_web/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
